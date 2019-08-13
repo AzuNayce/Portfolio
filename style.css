@@ -1,0 +1,23 @@
+header{
+    height: 940px;
+    background-color: cornflowerblue;
+}
+.cettouveu{
+    position: relative;
+    top: 40%;
+    left: 0%;
+}
+.main{
+    height: 600px;
+
+}
+
+img{
+    width: 25%;
+}
+li{
+    list-style: none;
+}
+body {
+    background-color: rgb(255, 255, 255);
+}
